@@ -1,6 +1,6 @@
 <?xml-stylesheet type="text/css" href="emp.css" ?>
 <employees>
-<emp isbn="1">
+<emp>
     <name>Radwa</name>
     <phones>
         <phone type="mobile">0105659652</phone>
@@ -26,7 +26,7 @@
     </addresses>
     <email>emp1@gmail.com</email>  
 </emp>
-<emp isbn="2">
+<emp>
     <name>Mohammed</name>
     <phones>
         <phone type="mobile">01256459652</phone>
