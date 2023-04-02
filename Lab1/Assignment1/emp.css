@@ -1,0 +1,9 @@
+emp{
+    display: flex;
+    border: solid black;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px 10px;
+    
+}
