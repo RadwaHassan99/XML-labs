@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<employees>
+  <employee>
+    <id>64341d0e48a44</id>
+    <name>Radwa</name>
+    <email>radwa@gmail.com</email>
+    <phone>01022190637</phone>
+    <address>5 Mostafa Kamel streetr,Alexandria,Egypt</address>
+  </employee>
+  <employee>
+    <id>643425a7c6374</id>
+    <name>Radwa Hassan</name>
+    <email>radwa.prof.9@gmail.com</email>
+    <phone>01022190637</phone>
+    <address>5-Mustafa Kamel Street, Abu Qir</address>
+  </employee>
+  <employee>
+    <id>643426022f3ea</id>
+    <name>Mohammed Hassan</name>
+    <email>mo@gmail.com</email>
+    <phone>01122190637</phone>
+    <address>5-Mustafa Kamel Street, Abu Qir</address>
+  </employee>
+</employees>
