@@ -1,0 +1,56 @@
+<?xml-stylesheet type="text/css" href="emp.css" ?>
+<employees>
+<emp>
+    <name>Radwa Hassan</name>
+    <email> radwa@gmail.com</email>
+    <phones>
+        <phone type="mobile">0105659652</phone>
+        <phone type="home">0105659652</phone>
+    </phones>
+    <addresses>
+        <address>
+            <Number>11-st</Number>
+            <street>Mostafa Kamel, </street> 
+            <Region>Sidi-Gaber, </Region>
+            <Building>12-bno, </Building>
+            <City>Alexandria, </City>
+            <Country>Egypt</Country>
+        </address>
+        <address type="home">
+            <Number>20-st</Number>
+            <street>El zohor, </street> 
+            <Region>El-shatby, </Region>
+            <Building>10bno, </Building>
+            <City>Alexandria, </City>
+            <Country>Egypt</Country>
+        </address>
+    </addresses>
+</emp>
+
+<emp>
+    <name>Mohammed Hassan</name>
+    <email>mohammed@gmail.com</email>
+    <phones>
+        <phone type="mobile">01256459652</phone>
+        <phone type="home">01165659652</phone>
+    </phones>
+    <addresses>
+        <address>
+            <Number>15-st</Number>
+            <street>Mohammed Naguib, </street> 
+            <Region>Sidi-Beshr</Region>
+            <Building>5-bno, </Building>
+            <City>Alexandria</City>
+            <Country>Egypt</Country>
+        </address>
+        <address type="home">
+            <Number>20-st</Number>
+            <street>khaled-EbElwaleed</street>
+            <Region>Miame</Region> 
+            <Building>10-bno</Building>
+            <City>Alexandria</City>
+            <Country>Egypt</Country>
+        </address>
+    </addresses>
+</emp>
+</employees>
